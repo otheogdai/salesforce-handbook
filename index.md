@@ -6,10 +6,4 @@ nav_order: 1
 
 # Salesforce Handbook
 
-Bem-vindo ao guia de padrões de desenvolvimento para:
-
-- Salesforce (Apex, Flows, Triggers, LWC)
-- MuleSoft (DataWeave, APIs, Conectores)
-- Integrações (Melhores práticas, Segurança, Arquitetura)
-
-> Este é um projeto vivo! 🚀
+Bem-vindo ao guia de padrões da empresa. Use o menu lateral para navegar pelas seções.
